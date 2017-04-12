@@ -1,0 +1,57 @@
+
+.menuOptions {
+}
+
+.menuOptions {
+	background:black;
+	list-style:none;
+	height:40px;
+	line-height: 40px;
+	display:flex;
+	justify-content: space-around;
+
+}
+.menuText {
+	color:white;
+	font-weight: bold;
+	text-decoration: none;
+}
+.underline {
+	text-decoration:none;
+	color:silver;
+}
+
+
+.sideBar {
+	padding-left:20px;
+	width:50%;
+	
+}
+
+.tayPic {
+	border-radius: 20px;
+}
+
+.userName {
+	font-size: 25px;
+}
+
+.userLogin {
+	font-size: 18px;
+	padding-left:4px;
+
+}
+
+.location {
+	font-size: 14px;
+}
+
+.reposit {
+	padding-left:25px;
+}
+
+.shareDiv {
+	display:flex;
+}
+
+
