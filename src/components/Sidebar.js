@@ -28,8 +28,7 @@ export default React.createClass({
 
    render(){
        return(
-       	<div className="shareDiv">
-           <div className="sideBar">
+           <div className="sideDiv">
              <img className="tayPic" src={this.state.user.avatar_url} alt={this.state.user.login+'disMe'} height="250" />
 
              <div className="userName">{this.state.user.name}</div>
@@ -41,7 +40,6 @@ export default React.createClass({
              <div><p><strong>Bio:</strong> Fake it till you make it.</p></div>
              </div>
                
-           </div>
            
 
      )

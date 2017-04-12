@@ -24,8 +24,13 @@
 
 .sideBar {
 	padding-left:20px;
-	width:50%;
+    width: 20%;
+    display: inline-flex;
 	
+}
+.Main {
+	 width: 70%;
+    float: right;
 }
 
 .tayPic {
@@ -50,8 +55,9 @@
 	padding-left:25px;
 }
 
-.shareDiv {
-	display:flex;
-}
 
+.repoTitle {
+	text-decoration:none;
+	font-size:22px;
+}
 
