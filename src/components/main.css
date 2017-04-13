@@ -61,3 +61,39 @@
 	font-size:22px;
 }
 
+.tabOptions {
+	display:flex;
+	justify-content: space-around;
+	list-style: none;
+}
+
+.tabOptionsLi {
+	font-size: 14px;
+	
+
+}
+
+.a {
+	text-decoration: none;
+	color:black;
+
+
+}
+.flex {
+	display:flex;
+	justify-content: left;
+}
+
+.repoBullet {
+	list-style: none;
+	display:flex;
+}
+
+#btn1 {
+	border-radius:50%;
+	background-color: red;
+	border-color:red;
+	height:1px;
+	padding:5px;
+	margin-bottom:10px;
+}
